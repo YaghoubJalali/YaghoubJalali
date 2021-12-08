@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yaghoub Jalali 👋</h1>
 
 <p align="center"> 
- <a href="https://github.com/YaghoubJalali" alt="meysam hadeli's github stats">
+ <a href="https://github.com/YaghoubJalali" alt="Yaghoub Jalali's github stats">
    <img src="https://img.shields.io/badge/-@YaghoubJalali-%23181717?style=flat-square&logo=github" />
  </a>
  <a href="https://www.linkedin.com/in/yaghoub-jalali-6a4005134/" alt="yaghoub jalali's github stats">
@@ -37,5 +37,13 @@
 
 - 💬 Ask me about: .NET, C#, Architecture, CQRS
 - 👯 I’m looking to collaborate on: .NET projects, Enterprise Architecture
+
+<br/>
+
+<p align="center">
+ <a href="#" alt="Yaghoub Jalali's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=yaghoubjalali&show_icons=true" />
+ </a>
+</p>
 
 
