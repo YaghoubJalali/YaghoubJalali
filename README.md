@@ -35,7 +35,7 @@
 <br/>
 
 
-- 💬 Ask me about: .NET, C#, Architecture, CQRS
+- 💬 Ask me about: .NET, C#, Architecture
 - 👯 I’m looking to collaborate on: .NET projects, Enterprise Architecture
 
 <br/>
