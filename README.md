@@ -8,7 +8,7 @@
    <img src="https://img.shields.io/badge/-YaghoubJalali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yaghoub-jalali-6a4005134" />
  </a>
 </p>
-
+<br/>
 <p align="center"> 
  <strong>
   Professional skills
