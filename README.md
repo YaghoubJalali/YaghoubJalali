@@ -36,7 +36,7 @@
 
 
 - 💬 Ask me about: .NET, C#, Architecture
-- 👯 I’m looking to collaborate on: .NET projects, Enterprise Architecture
+- 👯 I’m looking to collaborate on: .NET projects, Enterprise Application Architecture
 
 <br/>
 
